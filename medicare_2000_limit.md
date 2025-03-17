@@ -1,4 +1,4 @@
-英文原文来自nbc news（https://www.nbcnews.com/health/health-news/medicare-prescription-drug-cap-cancer-relief-january-rcna185251）
+英文原文来自nbc news（<a href="https://www.nbcnews.com/health/health-news/medicare-prescription-drug-cap-cancer-relief-january-rcna185251">Medicare's $2,000 prescription drug cap expected to bring major relief to cancer patients</a>）
 
 从1月1日起，随着《降低通胀法案》中新规定的生效，老年医疗保险（Medicare）受益人每年在处方药上的自付费用最高不超过2,000美元。
 
